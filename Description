@@ -3,9 +3,9 @@ which is managed through sms.
 Up to now this application implements 2 functionalities 
 1- Taking a picture (for doing this you have to send (#pinCode#2#) like sms from another phone) 
 2- retrieving the phone location (send (#pinCode#1#) as sms cmd)
-the results will be send to the email that you will enter during registration 
+the results will be send to the email that you have already used during registration 
 
-actually it contains some problems related to the API versions. they will be resolved later. 
+actually this app contains some problems related to API versions. they will be resolved later. 
 
 Best regards 
 Kahina 
